@@ -1,7 +1,7 @@
 {
   "name": "my-first-rwd-website",
   "version": "1.0.0",
-  "description": "My first simple website project, created in HTM 5 and CSS3. Full Responsive",
+  "description": "My first simple website project, created in HTML 5 and CSS3. Full Responsive",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/aniespialowski/my-first-RWD-website.git"
   },
-  "author": "\"Andrzej Nieśpiałowski\"",
+  "author": "Andrzej Nieśpiałowski",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aniespialowski/my-first-RWD-website/issues"
